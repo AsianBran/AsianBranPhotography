@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography Influencer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <h1>Capturing Life Through the Lens</h1>
+        <p>Photography is more than just images; it's art.</p>
+    </header>
+    
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I'm a photographer and occasional videographer with 7 years of experience, dedicated to telling stories and capturng life and those in it through the lens.</p>
+    </section>
+    
+    <section class="portfolio">
+        <h2>My Work</h2>
+        <div class="gallery">
+            <img src="IMG_3320.jpeg" alt="Photography Sample 1">
+            <img src="IMG_3920.jpeg" alt="Photography Sample 2">
+            <img src="IMG_4080.jpeg" alt="Photography Sample 3">
+        </div>
+    </section>
+    
+    <section class="behind-the-scenes">
+        <h2>Behind the Scenes</h2>
+        <p>A look at my creative process, from capturing moments to editing them into what I present.</p>
+    </section>
+    
+    <section class="contact">
+        <h2>Let's Connect</h2>
+        <p>Follow me on Instagram: <a href="#">@asian.bran</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Brandon Clark. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
